@@ -1,0 +1,8 @@
+apiVersion: fleet.cattle.io/v1alpha1
+kind: GitRepo
+metadata:
+  name: homelab
+  namespace: fleet-local
+spec:
+  repo: "https://github.com/webD97/homelab-home-assistant"
+  branch: main
