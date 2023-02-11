@@ -4,7 +4,7 @@ metadata:
   name: infastructure
   namespace: fleet-local
 spec:
-  repo: "https://github.com/webD97/homelab-infastructure"
+  repo: "https://github.com/webD97/homelab-infrastructure"
   branch: main
   paths:
     - metallb-deployment
