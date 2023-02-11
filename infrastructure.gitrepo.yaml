@@ -1,0 +1,11 @@
+apiVersion: fleet.cattle.io/v1alpha1
+kind: GitRepo
+metadata:
+  name: infastructure
+  namespace: fleet-local
+spec:
+  repo: "https://github.com/webD97/homelab-infastructure"
+  branch: main
+  paths:
+    - metallb-deployment
+    - metallb-config
