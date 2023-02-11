@@ -6,3 +6,6 @@ metadata:
 spec:
   repo: "https://github.com/webD97/homelab-metallb"
   branch: main
+  paths:
+    - metallb
+    - config
