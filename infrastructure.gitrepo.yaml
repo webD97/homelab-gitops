@@ -10,3 +10,4 @@ spec:
   paths:
     - metallb-deployment
     - metallb-config
+    - nfs-provisioner
