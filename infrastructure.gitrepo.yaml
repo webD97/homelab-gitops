@@ -11,3 +11,4 @@ spec:
     - metallb-deployment
     - metallb-config
     - nfs-provisioner
+    - coredns
