@@ -15,3 +15,4 @@ spec:
     - meshcommander
     - sealed-secrets
     - ebon-bot
+    - octoprint
