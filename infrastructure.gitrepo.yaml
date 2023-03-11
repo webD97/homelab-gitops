@@ -13,3 +13,4 @@ spec:
     - nfs-provisioner
     - coredns
     - meshcommander
+    - sealed-secrets
