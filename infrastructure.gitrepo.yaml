@@ -14,3 +14,4 @@ spec:
     - coredns
     - meshcommander
     - sealed-secrets
+    - ebon-bot
