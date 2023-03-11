@@ -12,3 +12,4 @@ spec:
     - metallb-config
     - nfs-provisioner
     - coredns
+    - meshcommander
