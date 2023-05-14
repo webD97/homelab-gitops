@@ -16,3 +16,4 @@ spec:
     - sealed-secrets
     - ebon-bot
     - octoprint
+    - photoprism
