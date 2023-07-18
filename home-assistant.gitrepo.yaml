@@ -1,9 +1,0 @@
-apiVersion: fleet.cattle.io/v1alpha1
-kind: GitRepo
-metadata:
-  name: home-assistant
-  namespace: fleet-local
-spec:
-  repo: "https://github.com/webD97/homelab-home-assistant"
-  pollingInterval: "120s"
-  branch: main
