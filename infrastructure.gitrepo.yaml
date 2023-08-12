@@ -16,5 +16,6 @@ spec:
     - sealed-secrets
     - ebon-bot
     - octoprint
-    - photoprism
+    #- photoprism
     - homeassistant
+    - generic-device-plugin
