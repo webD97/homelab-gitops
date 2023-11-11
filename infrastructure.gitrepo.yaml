@@ -16,6 +16,7 @@ spec:
     - sealed-secrets
     - ebon-bot
     - octoprint
-    #- photoprism
     - homeassistant
     - generic-device-plugin
+    - system-upgrade-controller
+    - k3s-upgrade
