@@ -20,3 +20,4 @@ spec:
     - generic-device-plugin
     - system-upgrade-controller
     - k3s-upgrade
+    - paperless-ngx
