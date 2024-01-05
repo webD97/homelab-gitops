@@ -21,3 +21,4 @@ spec:
     - system-upgrade-controller
     - k3s-upgrade
     - paperless-ngx
+    - cert-manager
